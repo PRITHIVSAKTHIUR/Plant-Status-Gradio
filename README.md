@@ -50,6 +50,18 @@ Link🔗 : https://huggingface.co/spaces/prithivMLmods/Plant-Status-Gradio/blob/
 
 Link🔗: https://huggingface.co/docs/hub/spaces-run-with-docker
 
+## Python Package Index : Lib requirements.txt
+
+	+gradio
+	+tensorflow
+	+numpy
+	+Pillow
+## After having plant_disease_classifier.h5 to the Folder ( of <= 600MB )
+
+ Just Run the Gradio Space file : python app.py
+
+ to launch gradio, Application Message:  " To create a public link, set `share=True` in `launch()`. "
+
 .
 
 .
